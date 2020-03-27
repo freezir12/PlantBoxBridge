@@ -21,7 +21,7 @@ Windows Software you need for this project:
 - SDFomater
 - putty or other ssh client
 - OpenVPN (Win/IOS/Android/OSX)
-- vpn certifikate library
+- easyRSA library
 
 Hardware you need for this project:
 - Raspberry Pi3
