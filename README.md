@@ -24,11 +24,12 @@ Windows Software you need for this project:
 - vpn certifikate library
 
 Hardware you need for this project:
--Raspberry Pi3
--submersible pumps
--Arduino UNO
--DHT21 sensor (2x)
--HomeLab PH sensor kit with isolator board
--PH sensor with 4502C board
+- Raspberry Pi3
+- submersible pumps
+- Arduino UNO
+- DHT21 sensor (2x)
+- HomeLab PH sensor kit with isolator board
+- PH sensor with 4502C board
+- MiFlowerCare bluetooth sensor
 
 
