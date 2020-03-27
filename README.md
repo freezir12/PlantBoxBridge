@@ -2,9 +2,11 @@
 Control your small hydroponic environment (for dummies)
 
 Why this repo exists:
+
 I am good with technical stuff, found my passion for programming (still beginner) and self grown food so i started this small project.
 
 The final result of this project:
+
 You will have a low budget automated hydroponics system (closet size, maybe scalable) which can be controlled and checked via homebridge apps from the LAN and also from elsewhere on the internet via telegram and WebBrowser. The connection from the internet is made 
 
 The knowledge you need for this project:
